@@ -1,0 +1,56 @@
+*
+{
+    margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+h1
+{
+    font-family: 'Dancing Script', cursive;
+}
+.hover:hover 
+{
+    color: blue !important;
+}
+.hover-card:hover
+{
+    background:#0d6efd;
+   color: white !important;
+}
+.hover-icon:hover
+{
+    background: white !important;
+    color: #0d6efd !important;
+
+}
+.hover-icon2:hover
+{
+    color: white !important;
+}
+.hover-card2:hover
+{
+    background: white !important;
+    color: black !important;
+}
+.carousel-item
+{
+    width: 100%;
+    height: 100vh;
+}
+.card-body img {
+min-width: 50%;
+max-height: 200px;
+}
+.About
+{
+    margin-top: 10% !important;
+}
+#team
+{
+    margin-top: 10% !important;
+}
+.last
+{
+    margin-top: 5% !important;
+
+}
